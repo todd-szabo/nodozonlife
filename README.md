@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -419,6 +420,14 @@
 			margin-top:-5px;
 	}
 	
+	.card{
+		
+			height:70%;
+			width:70%;
+			margin-left:30px;
+			margin-top:40px;
+	}
+	
 	.btn-secondary{ 
 	   
 	  
@@ -426,7 +435,8 @@
 	 
 	}
 	
-
+	A {text-decoration: none;} <!--makes for no underline on hyperlinks-->
+	
 
 </style>
 <body>
@@ -506,27 +516,29 @@
 			
 			<div id="article-container">
 			
-			<h1><a href="https://www.youtube.com/watch?v=dhWcK0lb-hM&feature=share">Quintin Dozier</a></h1>
+			<h1><a href="https://www.youtube.com/watch?v=dhWcK0lb-hM&feature=share">"Doz- Mr. Big"</a></h1>
 	
 	
 			<div id="article-summary">
 			
-				<p>Here we have an up and coming Artist to dazzel you all.</p>
-				<p>"I'm a God, a descendant of Ra, pharaoh and God".</p>
+				<p><b>Artist Bio</b>
+
+		King Doz, who's recently graduated from Yung Doz, is a hip hop music artist, writer, and entrepreneur who lives in Covington KY.
+		Doz got into music from a young age when his turbulence of a childhood left his only conduit of liberation as writing.  
+		He saw writing as a form of expression and freedom that no therapist or pharmaceutical could prescribe.  
+		From listening to various artists who had similar damage, his own trauma was omitted and left to be unearthed on his own.
+		His buoyant passion for idioms can be found in his old project, "No Doz: The Wakeup Volume 1", singles, and his upcoming album "iiWii" (it is What it is)</p>
+		
+						
 				
-				<p><img class="clock" src="quintin 1.jpg"> December 28 2020 | 
-				<a id ="topic-link" href="">Concert</a></p>
+				
 				
 					<hr id="article-hr" align="left">
 				
 					<p><a class="article-link" href=""></a></p>
 					<p><a class="article-link" href=""></a></p>
 					
-					<!-- contact me container-->
-					
-					<div id="contact-me">
-					
-					</div>
+
 			</div>
 						
 		
@@ -540,8 +552,13 @@
 				  Your browser does not support the video tag.
 				</video>
 			-->
+			
 			<img id="main-article-image" src="quintin 5a.jpg">
 			
+			<p></br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Who am I, I'm a God, a descendant of Ra, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;pharaoh of God"</p>
+			
+			<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img class="clock" src="quintin 1.jpg"> April/2/2018 | 
+				<a id ="topic-link" href="https://www.youtube.com/watch?v=DsxvAqHZA9E&list=PLKu8NMsJl7-G1p1ACcLTkAubkP_c8ERL0&index=3">Concert</a></p>
 				</div>
 			
 		</div>
@@ -551,7 +568,7 @@
 		<div id="watch-listen">
 		
 			<marquee scrollamount="5" behavior="alternate">
-			<h1>COMING SOON</h1>
+			<h1>"Doz- Mr. Big"</h1>
 			</marquee>
 			
 			<div class="side-article">
@@ -582,29 +599,18 @@
 			
 			<div class="side-article">
 
-			<p><a class="watch-listen-link" href="">Blog</a></p>
+			<p><a class="watch-listen-link" href="blog.html">Blog</a></p>
 			
-				</div>
-				
+				</div><div class="clear"></div>
+				<div class = "card" ><img class="card-img" src="quintin.png">&nbsp;King Doz<br>New Videos Coming Soon<a href="https://www.youtube.com/watch?v=dhWcK0lb-hM&feature=share"><button id="button">click</button></a></div>
 			</div>
 	
 		</div>
 		
-		<div class="clear"></div>
+		
 		
 		<hr>
 		
-			
-				</br>&nbsp;&nbsp;
-				
-				
-				
-																<!-- projects 1st row-->
-	
-	<div class = "card" ><img class="card-img" src="quintin.png">&nbsp;King Doz<br>New Videos Coming Soon<a href="https://www.youtube.com/watch?v=dhWcK0lb-hM&feature=share"><button id="button">click</button></a></div>
-	
-	
 
 </body>
 </html> 
-
